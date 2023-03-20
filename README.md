@@ -33,7 +33,7 @@ The season was so long, yet it went by so fast. However, it was the ending that 
 Football taught me so much about my capabilities, physical fitness, and the benefits of hard work. It taught me that if I want to do great things, then I need to put in a lot of work. There is no other option. As mentioned previously, it led to my current passion of lifting weights, and how I plan to approach fitness for the rest of my life.  Currently, I work out lifting weights approximately six times a week at Mizzou, and do it for at least 1-2 hours a day. I’ve been working out ever since I played football in high school.  Not only have I spent a lot of time weight lifting in the gym, but I’ve also spent time educating myself on nutrition. I’ve been eating healthier, replacing fattening foods with healthier alternatives. Since this switch, I’ve been sleeping even better too. I’ve been more content and more driven, than ever before. Football taught me a lot, especially, that one needs to maintain the best version of themselves in order to be successful. I still have a love for football and have joined the flag football intramural teams in college over the last two years. Even though I can’t play contact football anymore, I can still find opportunities to put on my cleats and lace up.  Due to my continued weight lifting, I still have what it takes. Although, everytime I step foot on any football field the flashbacks from my high school days reappear in my head. Now, a small tear may streak down my face when I put on the flags. Football was truly an amazing experience and a huge part of who I am today.
 
 *Lists of Opponents we faced*
-- Donwers grove
+- Downers grove
 - York
 - Oak Park-River Forest
 - Proviso West
