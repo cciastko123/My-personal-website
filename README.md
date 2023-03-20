@@ -10,3 +10,6 @@ For The Love of The Game
 
 
 ![Footbal Field At Night](./footballpic.jpeg)
+
+Read more about it!
+[How It Happened](./how-it-happened.md)
