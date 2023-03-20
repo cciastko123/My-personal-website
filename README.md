@@ -34,9 +34,11 @@ Football taught me so much about my capabilities, physical fitness, and the bene
 
 *Lists of Opponents we faced*
 - Donwers grove
-- Hinsdale south
 - York
-- 
+- Oak Park-River Forest
+- Proviso West
+- Glenbard West
+- Lyons
 
 
 
