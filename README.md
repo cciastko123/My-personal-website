@@ -2,7 +2,7 @@
 ## How My Love For The Game Shifted To My Love For The Gym  
 ### The benefits of playing High School football.
 
-#### Cole J. Ciastko 2023
+#### **Cole J. Ciastko** 2023
 
 For The Love of The Game
 
