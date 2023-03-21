@@ -16,3 +16,7 @@ We had blowouts in every game. Our starting defense didn’t allow a single touc
 Participating in the many late night practices in the dark, team lift sessions in the school gym for hours, pre-game “talks” in the locker room by the coach, and endless bus rides with my team members all made the time spent as a football player very special to me. Even the ride home after practices with my teammates was special. I remember during one practice Coach Griffin told us we were doing such a great job. He said that if we all could do just 20 pushups, then he would let us go home early. We accepted that challenge. We started as a group, down, up, “1” and so forth. We motivated each other as we pushed through. “Come on guys you can do it” shouted Brescia. “Don’t give up” yelled Jay. “Your mom didn't raise a quitter” screamed Franko. These were all inspiring words from our captains. Then, comes the 20th pushup. The last pushup was, probably, the hardest pushup of my life. Never, have I had my arms shaking so much. I almost gave up, but I kept pushing due to the motivation from my teammates. When we finished, we finished as a group. We were all drenched in sweat. The “high” was worth the extra effort.
 
 
+```HTML
+<html>
+  <body>I love teamwork and winning after putting in the work</body>
+</html>```
