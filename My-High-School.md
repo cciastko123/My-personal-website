@@ -9,4 +9,4 @@ Hinsdale Central High School is located 17 miles west of Chicago in DuPage Count
 
 # Logo for my high school's football team:
 
-![team logo](https://pbs.twimg.com/profile_images/1234204687638941697/ON1PH3YM_400x400.png)
+![team logo](./school-football-team-logo.png)
